@@ -1,0 +1,75 @@
+body {
+  background-color: #FFFAFA;
+  background-image: url('css bits/tree-silhouette-green-23.png');
+  background-size: 720px, 300px;
+  /* background-position: bottom -770px center; */
+  background-attachment: fixed;
+  background-position: bottom, bottom;
+  background-repeat: no-repeat;
+  font-family: Verdana, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(0, 100, 0);
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  color: rgb(0, 100, 0);
+  text-align: center;
+  font-size: 40px;
+}
+
+h3 {
+  color: rgb(0, 100, 0);
+  text-align: center;
+  font-size: 30px;
+}
+
+
+p {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+input[type=submit] {
+    border: 1px solid #f44c0e;
+    color: #fff;
+    background: tomato;
+    padding: 3px 20px;
+    border-radius: 5px;
+}
+input[type=submit]:hover {
+    background: #f44c0e;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+
+
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+  height: 35px;
+
+}
+
+td{
+  text-align: center;
+  height: 35px;
+
+}
+
+tr{
+  height: 35px;
+
+}
